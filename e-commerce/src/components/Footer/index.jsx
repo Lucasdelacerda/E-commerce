@@ -1,7 +1,7 @@
 
 export default function Footer() {
     return (
-        <section className='flex flex-col w-screen py-10 px-[13.54%] bg-darkBackgroundColor text-white'>
+        <section className='flex flex-col w-screen py-10 px-[13.54%] bg-darkBackgroundColor text-white '>
             <div className='flex w-[100%] justify-between'>
                 <h2 className='flex flex-col gap-1 text-xl'>
                     Consulting Agency For Your Business
@@ -11,7 +11,7 @@ export default function Footer() {
                     Contact Us
                 </button>
             </div>
-            <ul className='grid grid-cols-5 justify-center items-center mt-[90px] pr-20'>
+            <ul className='grid grid-cols-5 justify-center items-center mt-[90px]'>
                 <li className="flex flex-col gap-2.5">
                     <h3 className="font-bold text-base">Company Info</h3>
                     <a className="mt-2.5 text-sm font-semibold hover:underline" href=" #">About Us</a>
