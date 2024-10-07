@@ -1,0 +1,9 @@
+[
+    {
+        id: 1,
+        name: "Product 1",
+        price: 100,
+        image: "https://i.pinimg.com/originals/98/9a/5d/989a5d83cfa1a77d41baa77d63536529.png",
+        description: "Product description 1"
+    }
+]

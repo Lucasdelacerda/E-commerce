@@ -11,6 +11,7 @@ module.exports = {
         darkBackgroundColor: '#252B42'
 
       },
+      
     },
   },
   plugins: [],
