@@ -9,3 +9,22 @@ body {
     overflow-x: hidden;
 }
 
+.my-swipper .swiper-button-next,
+.my-swipper .swiper-button-prev {
+    color: rgba(255, 255, 255, 0.545);
+    margin-top: 3%;
+    width: 40px;
+}
+
+.my-swipper .swiper-pagination-bullet {
+    width: 63px;
+    height: 3px;
+    opacity: 1;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 0;
+}
+
+.my-swipper .swiper-pagination-bullet-active {
+    color: #fff;
+    background: white;
+}

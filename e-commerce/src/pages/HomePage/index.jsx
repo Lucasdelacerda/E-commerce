@@ -38,10 +38,11 @@ export default function HomePage() {
 
                         </a>
                     </div>
-                    <section className='flex'>
-                        <img className='flex' src=''>
-
-                        </img>
+                    <section className='flex gap-10 pt-5 mt-32 p-20'>
+                        <div className='flex flex-col gap-1 p-12 w-[30%] h-[90vh] bg-[url("https://i.pinimg.com/originals/1a/94/d8/1a94d84e637746f6055449f167656fe1.png")] bg-cover'>
+                            <h6 className='font-semibold text-black text-sm'>FURNITURE</h6>
+                            <h4 className='font-light text-xs text-secondaryTextColor '> 5 Items</h4>
+                        </div>
                         <Products />
                     </section>
                 </section>
